@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    padding: 25px;
+    padding-top: 25px ;
+}
+
+.header nav  {
+    display: inline;
+}
+.header_button {
+    float: right;
+}
+
+nav a:not(last-child) {
+    margin-right: 60px;
+}
+
+.centerizer-container {
+ width: 90%;
+ margin: 0 auto;
+}
+
+.promo-selection{
+    padding-top: 250px;
+    padding-bottom: 380px;
+}
+.promo-selection-inner{
+
+}
+h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+    margin: 0;
+    letter-spacing: 1px;
+    color: #091133;
+    margin: 0;
+
+}
+
+button {
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+border: 2px solid #091133;
+border-radius: 2px;
+}
+
+a{
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.promo-selection p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+
+    color: #505f98;
+    margin: 25px 0 70px;
+
+}
